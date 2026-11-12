@@ -1,6 +1,6 @@
 # Eluney González
 
-Technical Writing | Editing | XML and Markdown Authoring | AI-Assisted Drafting and Review | Regulated-Industry Development
+Technical Writing | Editing | XML and Markdown Authoring | AI-Assisted Drafting and Review | Regulated-Industry Documentation
 
 ---
 
