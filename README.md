@@ -1,15 +1,16 @@
 # Eluney González
 
-Technical Writing | Content Editing | XML and Markdown Authoring | AI-assisted Drafting and Review
+Technical Writing | Editing | XML and Markdown Authoring | AI-Assisted Drafting and Review | Regulated-Industry Development
 
 ---
 
 ## About Me
 
-I am a technical writer, editor, and documentation specialist with a background in English and History from the University of Florida. I've earned practical experience as a technical writer across legal, life science, and IT domains; in each of these roles, I've proven myself to be adaptable and quick to learn required domain knowledge from Subject Matter Experts to write and edit authoritatively about them. I excel at distilling complex topics in regulated industries into clear, concise, and correct documentation that prioritizes reader understanding, all without compromising security. 
+I'm a technical writer and editor based in Gainesville, Florida. I hold a Bachelor of Arts in English and History, and am currently working towards a Master's in Latin American Studies from the University of Florida. I've written documentation in legal, life science, and IT settings, working with subject matter experts to learn each domain quickly and turn complex, regulated topics into clear, accurate content.
 
-Currently, I am a part-time Documentation Specialist at the University of Florida's Center for Instructional Technology and Training, where I write user guides for the university's AI systems, support accessibility initiatives by reviewing content for WCAG Level 2 compliance, and support student, faculty, and staff technology training initiatives with transcriptions and resource sheets.
+Currently, I'm a part-time Documentation Specialist at the University of Florida's Center for Instructional Technology and Training. I write user guides for the university's AI systems, review content for WCAG 2.1 Level AA compliance, and create transcriptions and resource sheets for a variety of technology training videos.
 
+<!--
 ---
 
 ## Experience
@@ -20,3 +21,4 @@ Currently, I am a part-time Documentation Specialist at the University of Florid
 ---
 ## Connect
 
+-->
