@@ -18,8 +18,5 @@ Currently, I am a part-time Documentation Specialist at the University of Florid
 ## Portfolio
 
 ---
-## Learning Path
-
----
 ## Connect
 
